@@ -1,0 +1,16 @@
+{
+  "appId": "com.eventmobi.poc2",
+  "appName": "capacitor-poc2",
+  "bundledWebRuntime": false,
+  "npmClient": "yarn",
+  "webDir": "build",
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 0
+    }
+  },
+  "cordova": {},
+  "server": {
+    "url": "https://usmanniqbal.github.io"
+  }
+}
