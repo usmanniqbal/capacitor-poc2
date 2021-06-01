@@ -11,6 +11,8 @@
   },
   "cordova": {},
   "server": {
-    "url": "https://usmanniqbal.github.io"
+    "allowNavigation": [
+      "https://capacitorjs.com/"
+    ]
   }
 }
